@@ -10,15 +10,32 @@
 
 **Link(s) to work**: PalindromeOrNot - https://github.com/TheLonePhoton/Python-learn/blob/master/StringsAndList_review.py
 
+--------------------------------------------------------------------------------------------------
 
-### Day 2: November 13, 2019 
+
+### Day 34: Dec 19, 2019 
 
 **Today's Progress**: 
-  
+
+  MySQL - Primary Key, Foreign Key
+
+**Thoughts** 
+Lot to learn in MySQL
+
+**Link(s) to work**
+
+--------------------------------------------------------------------------------------------------
+
+### Day 33: Dec 18, 2019 
+
+**Today's Progress**: 
+  Auto_increment in sql
 
 **Thoughts** 
 
 **Link(s) to work**
+
+--------------------------------------------------------------------------------------------------
 
 
 ### Day 2: November 13, 2019 
